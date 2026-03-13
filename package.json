@@ -1,7 +1,7 @@
 {
   "name": "homebridge-http-multiswitch-modern",
-  "version": "2.0.1",
-  "author": "nitaybz",
+  "version": "2.0.0",
+  "author": "fellowgeek",
   "description": "Simple HTTP switches for Homebridge - stateful and radio-button/multi-switch (Modernized)",
   "license": "MIT",
   "displayName": "HTTP MultiSwitch Modern",
